@@ -1,0 +1,14 @@
+{
+  "name": "SystemjsNodejsConsoleApp",
+  "version": "0.0.0",
+  "description": "SystemjsNodejsConsoleApp",
+  "main": "boot.js",
+  "author": {
+    "name": "assad",
+    "email": "assad@ael-bd.com"
+  },
+  "dependencies": {
+    "typescript": "^1.8.10",
+    "systemjs": "^0.19.26"
+  }
+}
